@@ -1,9 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Grzegorz Łabojko<br/>Full-Stack Developer</h1>
 
-<!--
-**glabojko/glabojko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [photo laboratory [backend] application](https://github.com/RadekRo/AnkaraLab-BackEnd)
 - 🌱 I’m currently learning C#
@@ -13,4 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p>
+  <h3>Latest opinion about me: (Feb 2024)</h3>
+  <i>Grzegorz has completed a one-year course as a full-stack programmer. He has worked in C#, .NET Core technology. He has a good knowledge of algorithms and knows how to work correctly with git. He is a person who takes initiative in programming over the whole group. However, he often hesitates to express his thoughts, affecting his speech fluency during technical discussions. He has a good coding base in OOP. He is a good candidate for working on the backend, solving tasks, and finding bugs in code.</i><br>
+<h5>/Adrian Widłak, programming menthor/</h5>
+</p>
